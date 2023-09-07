@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Lesson11 {
     /**
      * Задание 11. Ход конём
